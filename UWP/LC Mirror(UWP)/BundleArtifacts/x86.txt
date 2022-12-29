@@ -1,2 +1,0 @@
-MainPackage=C:\Users\NotePad\Desktop\lc mirror uwp\LC Mirror(UWP)\LC Mirror(UWP)\bin\x86\Debug\LC Mirror(UWP)_0.1.1.0_x86_Debug.msix
-SymbolPackage=C:\Users\NotePad\Desktop\lc mirror uwp\LC Mirror(UWP)\LC Mirror(UWP)\obj\x86\Debug\Symbols\LC Mirror(UWP)_0.1.1.0_x86_Debug.appxsym
