@@ -1,0 +1,6 @@
+MainPackage=C:\Users\NotePad\Desktop\lc mirror uwp\LC Mirror(UWP)\LC Mirror(UWP)\bin\ARM\Debug\LC Mirror(UWP)_0.1.1.0_ARM_Debug.msix
+SymbolPackage=C:\Users\NotePad\Desktop\lc mirror uwp\LC Mirror(UWP)\LC Mirror(UWP)\obj\ARM\Debug\Symbols\LC Mirror(UWP)_0.1.1.0_ARM_Debug.appxsym
+ResourcePack=C:\Users\NotePad\Desktop\lc mirror uwp\LC Mirror(UWP)\LC Mirror(UWP)\bin\ARM\Debug\LC Mirror(UWP)_0.1.1.0_scale-100.msix
+ResourcePack=C:\Users\NotePad\Desktop\lc mirror uwp\LC Mirror(UWP)\LC Mirror(UWP)\bin\ARM\Debug\LC Mirror(UWP)_0.1.1.0_scale-125.msix
+ResourcePack=C:\Users\NotePad\Desktop\lc mirror uwp\LC Mirror(UWP)\LC Mirror(UWP)\bin\ARM\Debug\LC Mirror(UWP)_0.1.1.0_scale-150.msix
+ResourcePack=C:\Users\NotePad\Desktop\lc mirror uwp\LC Mirror(UWP)\LC Mirror(UWP)\bin\ARM\Debug\LC Mirror(UWP)_0.1.1.0_scale-400.msix
