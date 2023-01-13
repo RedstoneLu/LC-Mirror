@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SmallTileSource>C:\Users\NotePad\Desktop\icon\小磁贴.png</SmallTileSource>
+    <MediumTileSource>C:\Users\NotePad\Desktop\icon\中磁贴.png</MediumTileSource>
+    <WideTileSource>C:\Users\NotePad\Desktop\icon\宽磁贴.png</WideTileSource>
+    <LargeTileSource>C:\Users\NotePad\Desktop\icon\大磁贴.png</LargeTileSource>
+    <AppIconSource>C:\Users\NotePad\Desktop\icon\应用图标.png</AppIconSource>
+    <SplashScreenSource>C:\Users\NotePad\Desktop\icon\启动.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\NotePad\Desktop\icon\微标徽章.png</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\NotePad\Desktop\icon\包微标.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
